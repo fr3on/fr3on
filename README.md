@@ -15,7 +15,7 @@ Specialties:
 <details>
   <summary>show</summary>
 
-  <img align="left" alt="MAXakaWIZARD's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fr3on&show_icons=true&hide_border=true" />
+  <img align="left" alt="Fr3on's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fr3on&show_icons=true&hide_border=true" />
 </details>
 
 ### Contacts:
