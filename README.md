@@ -1,10 +1,10 @@
 ## Ahmed Mardi
 
-More than 7 years experience in the areas of Software solutions, Designing and Implementing Infrastructure solutions for small to medium level customers.
+More than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
 
 I have been always responsible for assisting customers in the architecture, design and implementation of solutions based on open source products and technologies, possibly in complex technical or political environments where limited assistance may be available.
 
-Lately, involved into Team Leadership. Develop and follow up the Technical Development operation of team members.
+Lately, I'm getting more involved as a team leader, developing and following up with technical development operation of team members.
 
 Specialties:
 - Team Leadership
