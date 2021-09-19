@@ -1,6 +1,8 @@
 ## Ahmed Mardi
 
-More than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
+Hi 👋
+
+I’m Ahmed, a developer, entrepreneur, co-founder and indie-hacker based in cairo, and quite active in the open source community. I’m currently building Linesbox, an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
 
 I have been always responsible for assisting customers in the architecture, design and implementation of solutions based on open source products and technologies, possibly in complex technical or political environments where limited assistance may be available.
 
@@ -9,13 +11,10 @@ Lately, I'm getting more involved as a team leader, developing and following up 
 Specialties:
 - Team Leadership
 - Software Development
-- Technical Consultation 
-
-### Github Stats
-<details>
-  <summary>show</summary>
-  <img align="left" alt="Fr3on's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fr3on&show_icons=true&theme=dark" />
-</details>
+- Technical Consultation
+- Data Science
+- Infrastructure
+- Business Analysis
 
 ### Contacts:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
