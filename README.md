@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I’m Ahmed, a developer, entrepreneur, co-founder and indie-hacker based in cairo, and quite active in the open source community. I’m currently building Linesbox, an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
+I’m Ahmed, a developer, entrepreneur, co-founder and [indie-hacker][indiehackers] based in cairo, and quite active in the open source community. I’m currently building [Linesbox][linesbox], an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
 
 I have been always responsible for assisting customers in the architecture, design and implementation of solutions based on open source products and technologies, possibly in complex technical or political environments where limited assistance may be available.
 
@@ -28,6 +28,9 @@ Specialties:
 [medium]: https://medium.com/@fr3on/
 [linkedin]: https://www.linkedin.com/in/fr3on/
 [angel]: https://angel.co/u/fr3on
+[indiehackers]: https://www.indiehackers.com/fr3on
+[linesbox]: https://linesbox.com
+
 <!--
 **MAXakaWIZARD/MAXakaWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
