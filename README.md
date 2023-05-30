@@ -2,19 +2,18 @@
 
 Hi 👋
 
-I’m Ahmed, a developer, entrepreneur, co-founder and [indie-hacker][indiehackers] based in cairo, and quite active in the open source community. I’m currently building [Linesbox][linesbox], an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
+I’m Ahmed, a developer, entrepreneur, co-founder and [indie-hacker][indiehackers] based in cairo, and quite active in the open source community. I’m currently building [Linesbox][linesbox], an employee lifecycle application. with more than 10 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
 
 I have been always responsible for assisting customers in the architecture, design and implementation of solutions based on open source products and technologies, possibly in complex technical or political environments where limited assistance may be available.
 
-Lately, I'm getting more involved as a team leader, developing and following up with technical development operation of team members.
+Lately, I'm getting more involved as a head of engineering, developing and following up with technical development operation of team members.
 
 Specialties:
-- Team Leadership
-- Software Development
-- Technical Consultation
-- Data Science
-- Infrastructure
-- Business Analysis
+Team Leadership 
+Software Development 
+Technical Consultation 
+Data Engineering 
+Cloud Computing
 
 ### Contacts:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
