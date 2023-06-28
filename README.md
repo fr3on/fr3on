@@ -20,13 +20,11 @@ Cloud Computing
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="angel" width="22px" src="https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png" />][angel]
 
 [twitter]: https://twitter.com/fr3onhq/
 [facebook]: https://www.facebook.com/fr30n/
 [medium]: https://medium.com/@fr3on/
 [linkedin]: https://www.linkedin.com/in/fr3on/
-[angel]: https://angel.co/u/fr3on
 [indiehackers]: https://www.indiehackers.com/fr3on
 [linesbox]: https://linesbox.com
 
