@@ -2,31 +2,25 @@
 
 Hi 👋
 
-I’m Ahmed, a developer, entrepreneur, co-founder and [indie-hacker][indiehackers] based in cairo, and quite active in the open source community. I’m currently building [Linesbox][linesbox], an employee lifecycle application. with more than 10 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.
+I’m Ahmed, a engineer and entrepreneur based in Egypt with over a decade of experience in software engineering, infrastructure design, and technical leadership. I’m passionate about building impactful solutions, contributing to open source, and supporting growing teams and startups.
 
-I have been always responsible for assisting customers in the architecture, design and implementation of solutions based on open source products and technologies, possibly in complex technical or political environments where limited assistance may be available.
+Over the years, I’ve worked across various roles—from hands-on development to architectural consulting and team management. My focus has been on designing scalable systems, leading development teams, and driving product strategy in both startup and enterprise environments.
 
-Lately, I'm getting more involved as a head of engineering, developing and following up with technical development operation of team members.
+I enjoy tackling complex challenges, especially in environments where agility, open-source technologies, and deep technical insight are critical to success.
 
-Specialties:
-Team Leadership 
-Software Development 
-Technical Consultation 
-Data Engineering 
-Cloud Computing
+### Key Areas
+- Software Architecture & Development  
+- Engineering Leadership  
+- Infrastructure & Cloud Solutions  
+- Data Engineering & Automation  
+- Technical Consulting & Advisory
 
-### Contacts:
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Contacts
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-[twitter]: https://twitter.com/fr3onhq/
-[facebook]: https://www.facebook.com/fr30n/
 [medium]: https://medium.com/@fr3on/
 [linkedin]: https://www.linkedin.com/in/fr3on/
-[indiehackers]: https://www.indiehackers.com/fr3on
-[linesbox]: https://linesbox.com
 
 <!--
 **MAXakaWIZARD/MAXakaWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
