@@ -2,18 +2,11 @@
 
 Hi 👋
 
-I’m Ahmed, a engineer and entrepreneur based in Egypt with over a decade of experience in software engineering, infrastructure design, and technical leadership. I’m passionate about building impactful solutions, contributing to open source, and supporting growing teams and startups.
+Over a decade of experience in software engineering, infrastructure design, and technical leadership. I’m passionate about building impactful solutions, contributing to open source, and supporting growing teams and startups.
 
 Over the years, I’ve worked across various roles—from hands-on development to architectural consulting and team management. My focus has been on designing scalable systems, leading development teams, and driving product strategy in both startup and enterprise environments.
 
 I enjoy tackling complex challenges, especially in environments where agility, open-source technologies, and deep technical insight are critical to success.
-
-### Key Areas
-- Software Architecture & Development  
-- Engineering Leadership  
-- Infrastructure & Cloud Solutions  
-- Data Engineering & Automation  
-- Technical Consulting & Advisory
 
 ### Contacts
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
