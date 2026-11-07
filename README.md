@@ -25,23 +25,7 @@ I enjoy tackling complex challenges, especially in environments where agility, o
 <!-- LANGUAGES:END -->
 
 ### Contacts
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-[medium]: https://medium.com/@fr3on/
-[linkedin]: https://www.linkedin.com/in/fr3on/
-
-<!--
-**MAXakaWIZARD/MAXakaWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fr3on-0A66C2)](https://www.linkedin.com/in/fr3on/)
+[![Medium](https://img.shields.io/badge/Medium-@fr3on-000000?logo=medium&logoColor=white)](https://medium.com/@fr3on/)
+[![Writing](https://img.shields.io/badge/Writing-0x200.com-3b82f6)](https://0x200.com/writing)
+[![Sutur](https://img.shields.io/badge/Sutur-fr3on-c8873a)](https://sutur.ink/u/fr3on)
