@@ -16,7 +16,8 @@ jobs:
       - name: Rewrite the Languages section
         run: python3 .github/scripts/languages.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.LANGUAGES_TOKEN || secrets.GITHUB_TOKEN }}
+          LANGUAGES_TOKEN: ${{ secrets.LANGUAGES_TOKEN }}
           OWNER: ${{ github.repository_owner }}
       - name: Commit if changed
         run: |
